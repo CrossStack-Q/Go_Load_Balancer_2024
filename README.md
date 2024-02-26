@@ -7,3 +7,4 @@ Imagine a scenario where a single server is connected to multiple clients. As mo
 
 ![App Screenshot](https://cdn.hashnode.com/res/hashnode/image/upload/v1708717642076/47777646-7ffa-40cc-91f7-25f09384e5e4.png?auto=compress,format&format=webp)
 
+A load balancer sits in front of a group of backend servers which is referred to as a server pool, the load distribution is performed based on load balancing algorithms which are responsible for choosing to which backend a request is going to be forwarded.
